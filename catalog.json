@@ -6,434 +6,496 @@
    "icon": "🐄",
    "version": 2,
    "puzzles": 25,
-   "free": true
+   "free": true,
+   "voice": "2c254771f2"
   },
   {
    "id": "wild",
    "name": "Wild Animals",
    "icon": "🦁",
    "version": 2,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "1c63247759"
   },
   {
    "id": "sea",
    "name": "Sea",
    "icon": "🐙",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "7064ff3ae8"
   },
   {
    "id": "dinos",
    "name": "Dinosaurs",
    "icon": "🦕",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "29f15aec91"
   },
   {
    "id": "vehicles",
    "name": "Vehicles",
    "icon": "🚗",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "b7dbb14dab"
   },
   {
    "id": "space",
    "name": "Space",
    "icon": "🚀",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "3534dc372c"
   },
   {
    "id": "food",
    "name": "Food",
    "icon": "🍓",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "c4961d2a21"
   },
   {
    "id": "sweets",
    "name": "Sweets",
    "icon": "🧁",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "3e6bb36007"
   },
   {
    "id": "toys",
    "name": "Toys",
    "icon": "🧸",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "8150ef6f6c"
   },
   {
    "id": "fairy",
    "name": "Fairy Tale",
    "icon": "🏰",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "8456d5bd83"
   },
   {
    "id": "birds",
    "name": "Birds",
    "icon": "🦜",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "02537ed5cc"
   },
   {
    "id": "bugs",
    "name": "Bugs",
    "icon": "🐞",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "f7e82918d3"
   },
   {
    "id": "pets",
    "name": "Pets",
    "icon": "🐶",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "2f544a2800"
   },
   {
    "id": "nature",
    "name": "Nature & Weather",
    "icon": "🌈",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "e04f285046"
   },
   {
    "id": "music",
    "name": "Music",
    "icon": "🎵",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "b31a5b14ea"
   },
   {
    "id": "letters",
    "name": "ABC",
    "icon": "🔤",
    "version": 1,
-   "puzzles": 26
+   "puzzles": 26,
+   "voice": "64a132f687"
   },
   {
    "id": "winter",
    "name": "Winter",
    "icon": "⛄",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "2bc7d31199"
   },
   {
    "id": "camping",
    "name": "Camping",
    "icon": "⛺",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "c2c60034b6"
   },
   {
    "id": "jungle",
    "name": "Jungle",
    "icon": "🐒",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "c09e9c5b9a"
   },
   {
    "id": "construction",
    "name": "Construction",
    "icon": "🚧",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "7e64b38495"
   },
   {
    "id": "sports",
    "name": "Sports",
    "icon": "⚽",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "53ab7a510f"
   },
   {
    "id": "beach",
    "name": "Beach",
    "icon": "🏖️",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "2b00f1a025"
   },
   {
    "id": "school",
    "name": "School",
    "icon": "🎒",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "71249bfed0"
   },
   {
    "id": "kitchen",
    "name": "Kitchen",
    "icon": "🍳",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "2e4eb88d90"
   },
   {
    "id": "shapes",
    "name": "Shapes & Numbers",
    "icon": "🔷",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "9257665f2c"
   },
   {
    "id": "monsters",
    "name": "Cute Monsters",
    "icon": "👾",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "f1eaaec3be"
   },
   {
    "id": "garden",
    "name": "Garden",
    "icon": "🌷",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "256a067d2d"
   },
   {
    "id": "robots",
    "name": "Robots",
    "icon": "🤖",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "da74024f6f"
   },
   {
    "id": "home",
    "name": "Home",
    "icon": "🛋️",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "852ec1466b"
   },
   {
    "id": "town",
    "name": "Town",
    "icon": "🏘️",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "9969aa04c8"
   },
   {
    "id": "party",
    "name": "Party",
    "icon": "🎉",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "7fe30a8aff"
   },
   {
    "id": "pond",
    "name": "Pond",
    "icon": "🐸",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "d40ad41a08"
   },
   {
    "id": "wheels",
    "name": "Wheels",
    "icon": "🛵",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "467c64eef4"
   },
   {
    "id": "skywater",
    "name": "Sky & Water",
    "icon": "⛵",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "8e084288dc"
   },
   {
    "id": "gadgets",
    "name": "Gadgets",
    "icon": "📱",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "97bb45520f"
   },
   {
    "id": "fruits",
    "name": "Fruit Stand",
    "icon": "🍑",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "1c2e07219e"
   },
   {
    "id": "desert",
    "name": "Desert",
    "icon": "🌵",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "de721ad62f"
   },
   {
    "id": "clothes",
    "name": "Clothes",
    "icon": "👕",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "482b614fee"
   },
   {
    "id": "dinos2",
    "name": "More Dinosaurs",
    "icon": "🦖",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "90af50ea57"
   },
   {
    "id": "aussie",
    "name": "Down Under",
    "icon": "🦘",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "0ac380856b"
   },
   {
    "id": "veggies",
    "name": "Veggie Patch",
    "icon": "🥕",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "3c2c4fe9c3"
   },
   {
    "id": "funfair",
    "name": "Funfair",
    "icon": "🎡",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "6050db9d3f"
   },
   {
    "id": "mountains",
    "name": "Snowy Peaks",
    "icon": "🏔️",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "2e9050ece1"
   },
   {
    "id": "rockpool",
    "name": "Rock Pool",
    "icon": "🦀",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "d5e1b008b3"
   },
   {
    "id": "lowercase",
    "name": "abc",
    "icon": "🔡",
    "version": 1,
-   "puzzles": 26
+   "puzzles": 26,
+   "voice": "2757a603d3"
   },
   {
    "id": "bakery",
    "name": "Bakery",
    "icon": "🥐",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "4ac651782d"
   },
   {
    "id": "bathbed",
    "name": "Bath & Bed",
    "icon": "🛁",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "21b79c3238"
   },
   {
    "id": "snacks",
    "name": "Snack Time",
    "icon": "🥨",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "2c823805f4"
   },
   {
    "id": "crafts",
    "name": "Arts & Crafts",
    "icon": "🎨",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "380a4c8980"
   },
   {
    "id": "playground",
    "name": "Playground",
    "icon": "🛝",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "d8e06b0c5f"
   },
   {
    "id": "farm2",
    "name": "Farm Friends",
    "icon": "🐑",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "9e8eb2cc0e"
   },
   {
    "id": "deepsea",
    "name": "Deep Sea",
    "icon": "🐡",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "0132b09334"
   },
   {
    "id": "sports2",
    "name": "Games & Sports",
    "icon": "🏓",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "5e8d737a4e"
   },
   {
    "id": "fish",
    "name": "Fish Friends",
    "icon": "🐠",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "2af0b1a489"
   },
   {
    "id": "birds2",
    "name": "More Birds",
    "icon": "🐦",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "e40782033d"
   },
   {
    "id": "hats",
    "name": "Hats & Shoes",
    "icon": "🎩",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "ae3fb17867"
   },
   {
    "id": "minibeasts",
    "name": "Minibeasts",
    "icon": "🐛",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "779ac17e9f"
   },
   {
    "id": "toybox",
    "name": "Toy Box",
    "icon": "🪀",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "6b8c3b1c1e"
   },
   {
    "id": "woodland",
    "name": "Woodland",
    "icon": "🦔",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "a3c5631130"
   },
   {
    "id": "savanna",
    "name": "Savanna",
    "icon": "🦓",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "3f87e03463"
   },
   {
    "id": "catsdogs",
    "name": "Cats & Dogs",
    "icon": "🐱",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "e43aecf0c8"
   },
   {
    "id": "shopping",
    "name": "Shopping",
    "icon": "🛒",
    "version": 1,
-   "puzzles": 25
+   "puzzles": 25,
+   "voice": "8d57240368"
   }
  ]
 }
