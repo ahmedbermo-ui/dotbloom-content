@@ -1,0 +1,89 @@
+{
+ "packs": [
+  {
+   "id": "farm",
+   "name": "Farm",
+   "icon": "🐄",
+   "version": 2,
+   "puzzles": 25,
+   "free": true
+  },
+  {
+   "id": "wild",
+   "name": "Wild Animals",
+   "icon": "🦁",
+   "version": 2,
+   "puzzles": 25
+  },
+  {
+   "id": "sea",
+   "name": "Sea",
+   "icon": "🐙",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "dinos",
+   "name": "Dinosaurs",
+   "icon": "🦕",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "vehicles",
+   "name": "Vehicles",
+   "icon": "🚗",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "space",
+   "name": "Space",
+   "icon": "🚀",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "food",
+   "name": "Food",
+   "icon": "🍓",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "sweets",
+   "name": "Sweets",
+   "icon": "🧁",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "toys",
+   "name": "Toys",
+   "icon": "🧸",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "fairy",
+   "name": "Fairy Tale",
+   "icon": "🏰",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "birds",
+   "name": "Birds",
+   "icon": "🦜",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "bugs",
+   "name": "Bugs",
+   "icon": "🐞",
+   "version": 1,
+   "puzzles": 25
+  }
+ ]
+}
