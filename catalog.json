@@ -84,6 +84,356 @@
    "icon": "🐞",
    "version": 1,
    "puzzles": 25
+  },
+  {
+   "id": "pets",
+   "name": "Pets",
+   "icon": "🐶",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "nature",
+   "name": "Nature & Weather",
+   "icon": "🌈",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "music",
+   "name": "Music",
+   "icon": "🎵",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "letters",
+   "name": "ABC",
+   "icon": "🔤",
+   "version": 1,
+   "puzzles": 26
+  },
+  {
+   "id": "winter",
+   "name": "Winter",
+   "icon": "⛄",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "camping",
+   "name": "Camping",
+   "icon": "⛺",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "jungle",
+   "name": "Jungle",
+   "icon": "🐒",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "construction",
+   "name": "Construction",
+   "icon": "🚧",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "sports",
+   "name": "Sports",
+   "icon": "⚽",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "beach",
+   "name": "Beach",
+   "icon": "🏖️",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "school",
+   "name": "School",
+   "icon": "🎒",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "kitchen",
+   "name": "Kitchen",
+   "icon": "🍳",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "shapes",
+   "name": "Shapes & Numbers",
+   "icon": "🔷",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "monsters",
+   "name": "Cute Monsters",
+   "icon": "👾",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "garden",
+   "name": "Garden",
+   "icon": "🌷",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "robots",
+   "name": "Robots",
+   "icon": "🤖",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "home",
+   "name": "Home",
+   "icon": "🛋️",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "town",
+   "name": "Town",
+   "icon": "🏘️",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "party",
+   "name": "Party",
+   "icon": "🎉",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "pond",
+   "name": "Pond",
+   "icon": "🐸",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "wheels",
+   "name": "Wheels",
+   "icon": "🛵",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "skywater",
+   "name": "Sky & Water",
+   "icon": "⛵",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "gadgets",
+   "name": "Gadgets",
+   "icon": "📱",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "fruits",
+   "name": "Fruit Stand",
+   "icon": "🍑",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "desert",
+   "name": "Desert",
+   "icon": "🌵",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "clothes",
+   "name": "Clothes",
+   "icon": "👕",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "dinos2",
+   "name": "More Dinosaurs",
+   "icon": "🦖",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "aussie",
+   "name": "Down Under",
+   "icon": "🦘",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "veggies",
+   "name": "Veggie Patch",
+   "icon": "🥕",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "funfair",
+   "name": "Funfair",
+   "icon": "🎡",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "mountains",
+   "name": "Snowy Peaks",
+   "icon": "🏔️",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "rockpool",
+   "name": "Rock Pool",
+   "icon": "🦀",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "lowercase",
+   "name": "abc",
+   "icon": "🔡",
+   "version": 1,
+   "puzzles": 26
+  },
+  {
+   "id": "bakery",
+   "name": "Bakery",
+   "icon": "🥐",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "bathbed",
+   "name": "Bath & Bed",
+   "icon": "🛁",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "snacks",
+   "name": "Snack Time",
+   "icon": "🥨",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "crafts",
+   "name": "Arts & Crafts",
+   "icon": "🎨",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "playground",
+   "name": "Playground",
+   "icon": "🛝",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "farm2",
+   "name": "Farm Friends",
+   "icon": "🐑",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "deepsea",
+   "name": "Deep Sea",
+   "icon": "🐡",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "sports2",
+   "name": "Games & Sports",
+   "icon": "🏓",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "fish",
+   "name": "Fish Friends",
+   "icon": "🐠",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "birds2",
+   "name": "More Birds",
+   "icon": "🐦",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "hats",
+   "name": "Hats & Shoes",
+   "icon": "🎩",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "minibeasts",
+   "name": "Minibeasts",
+   "icon": "🐛",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "toybox",
+   "name": "Toy Box",
+   "icon": "🪀",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "woodland",
+   "name": "Woodland",
+   "icon": "🦔",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "savanna",
+   "name": "Savanna",
+   "icon": "🦓",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "catsdogs",
+   "name": "Cats & Dogs",
+   "icon": "🐱",
+   "version": 1,
+   "puzzles": 25
+  },
+  {
+   "id": "shopping",
+   "name": "Shopping",
+   "icon": "🛒",
+   "version": 1,
+   "puzzles": 25
   }
  ]
 }
